@@ -1,4 +1,4 @@
-#Actividad dirigida 2#
+# Actividad dirigida 2 #
 En este repositorio detallo los pasos realizados para llevar a cabo las primeras partes de la Actividad Dirigida 2 (ad2), que consistió cambiar el README.md en la Actividad Dirigida 1.
 1.	Primero transformé el texto de Markdown a HTML, accediendo a mi cuenta de GitHub (https://github.com/nebrijas/LindaBatista-web/settings/pages), y desde Source, seleccionar main y root, en la opción 1 y 2 respectivamente.
 2.	Posteriormente creé un nuevo archivo con *Add file*, denominado ad2.md
