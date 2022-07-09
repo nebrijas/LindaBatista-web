@@ -10,8 +10,8 @@ A lo largo de la materia aprendí aspectos básicos relevantes sobre Markdown, G
 En la primera actividad dirigida aprendí sobre el uso de código de *Markdown*, que es de hecho muy sencillo, y a pesar de no conocerlo en primer lugar, es fácil de recordar.
 **Aprendí que**:
 -	Las almohadillas (#) nos ayudan a titular. El énfasis puede variar según la importancia que queramos darle. Por ejemplo: Si empleo una sola almohadilla delante del texto en *Markdown*, el título es el más destacado y será h1, si utilizo dos será h2 y reduce el tamaño de este, y así sucesivamente. 
--	Los asteriscos ayudan a enfatizar frases o palabras poniéndolas en cursiva o negrita. En este caso, si utilizo dos asteriscos (**), al inicio y al final del texto, **puedo poner un texto en negrita**, mientras que si uso uno (*) solo *puedo hacer que el texto sea cursivo*.
--	Por otro lado, si utilizo tres asteriscos (***) antes y después del texto, este me quedará en ***negrita y cursiva***.
+-	Los asteriscos ayudan a enfatizar frases o palabras poniéndolas en cursiva o negrita. En este caso, si utilizo dos asteriscos, al inicio y al final del texto, **puedo poner un texto en negrita**, mientras que si uso uno solo *puedo hacer que el texto sea cursivo*.
+-	Por otro lado, si utilizo tres asteriscos antes y después del texto, este me quedará en *** negrita y cursiva ***.
 -	Para hacer listas, como esta, coloco un guion delante del texto, y si quiero enumerar textos, utilizo cifras seguidas de un punto. Por ejemplo: 
 1.	Texto 1
 2.	Texto 2
