@@ -32,7 +32,7 @@ Para crear el repositorio:
 
 ## Sobre Git, GitBash y la programación literaria
 **Mediante la actividad dirigida 2 aprendí**:
-###Con el GitBash aprendí que: 
+### Con el GitBash aprendí que: 
 - Con **cd** puedo moverme de una carpeta a otra dentro de la terminal y con pwd identifico en qué carpeta estoy.
 - Con **ls** puedo ver el contenido que hay dentro de una determinada carpeta, y con **ls -a** veo los archivos ocultos.
 - Con **git clone** y mi enlace de GitHub puedo clonar mi repositorio dentro del archivo en mi computadora; mientras que con **git config** configuro el repositorio. 
@@ -44,7 +44,7 @@ Para crear el repositorio:
 ### Programación Literaria
 Este es un tipo de programación que me permite desarrollar con los diferentes lenguajes una programación, a medida que voy explicando lo que estoy haciendo.
 Con estos ejercicios me ayudo a recordar y le enseño a otros a cómo hacer programaciones determinadas.
-##Sobre Jupyter
+## Sobre Jupyter
 Utilizamos la plataforma Jupyter con documentos de Python para posteriormente visualizarlos en GitHub. 
 **En Jupyter**:
 Se utiliza el texto en Markdown para explicar el ejercicio, y se deja el texto en *code* cuando se trata de un código. 
